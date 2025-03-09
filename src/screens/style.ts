@@ -1,3 +1,4 @@
+import { StyleSheet } from 'react-native';
 import { COLORS } from '../theme/colors';
 import {normalize, respFontSize, responsiveWidth} from '../utils/responsive';
 
